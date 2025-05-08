@@ -27,7 +27,7 @@ function Header() {
   }
 
   const handleGoogleForm = () => {
-    // console.log("Session Data:", session); // Debugging session object
+    // console.log("Session Data:", session); // Debugging session objectt
     // console.log(
     //   "UID===>>",
     //   // session?.user && "uid" in session.user ? session.user.uid : "No UID found"
